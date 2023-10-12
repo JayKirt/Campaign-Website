@@ -2,8 +2,8 @@
 <h3> HTML and CSS template to record campaign activity</h3>
 
 <ul>  
-  <h4> <ins> Completed </ins> </h4>
-  <li> Nav bar </li>
+  <h4> <ins> Completed: </ins> </h4>
+  <li> Nav bar. ✔️ </li>
   <li> All link pages </li>
   <li> Image on home page. </li>
 </ul>
