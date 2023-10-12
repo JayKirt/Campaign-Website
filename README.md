@@ -4,6 +4,6 @@
 <ul>  
   <h4> <ins> Completed: </ins> </h4>
   <li> Nav bar. ✔️ </li>
-  <li> All link pages </li>
+  <li> All link pages. ✔️ </li>
   <li> Image on home page. </li>
 </ul>
