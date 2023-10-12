@@ -48,6 +48,10 @@ body {
         text-decoration:none;
     }
 
+    a:hover {
+        color:red;
+    }
+
     .nav-bar-logo {
         width:5em;
     }
