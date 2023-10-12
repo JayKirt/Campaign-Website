@@ -10,4 +10,6 @@
 
 <ul>
 <h4> <ins> To do: </ins> </h4>
+  <li> Home Page finished.</li>
+  <li> About us page finished. </li>
 </ul>
