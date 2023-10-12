@@ -1,64 +1,80 @@
-/* Removing Broswer Styles*/
-
 body {
-    margin: auto 0;   
-}
-
-/* Nav Bar */
-
-.navbar {
-    display:flex;
-    color:#FFF;
-    font-size:2em;
-    border-radius:4px;
-    border:1px solid #bbb;
-    transition: all 0.3s linear;
-}
-
-.nav-href {
-    text-decoration: none;
-    color:black;
-    list-style: none;
-    padding: 1em; 
-    display:inline-flex;
-    cursor:pointer;
-}
-
-@media only screen and (max-width: 600px) {
-    .main-nav {
-        flex-direction: column; /* Stack items vertically */
-        font-size: 1em; /* Adjust font size as needed */
+    margin: auto 0;
+    font-family: Arial;
+    
     }
-    .nav-href {
-        padding: 0.2em; /* Adjust padding as needed */
+    
+    .zone {
+        cursor:pointer;
+        color:#FFF;
+        font-size:2em;
+        border-radius:4px;
+        border:1px solid #bbb;
+        transition: all 0.3s linear;
     }
-}
-
-.nav-bar-logo {
-    width:5em;
-    height:100%;
-    margin: auto 0; 
-}
-
-.navbar:hover {
+    
+    .zone:hover {
         -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
         -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
         -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
         box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+    }
+    
+    /* NAV */
+    .sticky {
+        position: fixed;
+        top: 0;
+        width: 100%;
+    }
+    
+    
+    .main-nav {
+        display:flex;
+        list-style:none;
+        font-size: 0.7em;
+        margin: 0;
+        background-color: #bbb
+    }
+    
+    .about {
+        margin-left:auto;
+    }
+    li {
+        padding: 20px;
+    }
+    
+    a { 
+        color:black;
+        text-decoration:none;
+    }
 
+    .nav-bar-logo {
+        width:5em;
+    }
+
+    @media only screen and (max-width: 800px){
+        .main-nav {
+            font-size: 0.5em;
+        padding: 0;
+    }
+    .nav-bar-logo {
+        padding:0;
+        height:fit-content;
+    }
 }
 
+    
 
-
-.nav-href:hover {
-    color:red
-}
-
-.sticky {
-    position: fixed;
-    top: 0;
-    width: 100%;
-}
-.about {
-    margin-left:auto;
-}
+     /* COVER */
+    .container {
+        display:flex;
+        align-items: center;
+        justify-content: center;
+        height:50vh;
+    }
+    
+    .cover { 
+        width:30rem;
+        
+    }
+    
