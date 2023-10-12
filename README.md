@@ -13,4 +13,6 @@
   <li> Home Page finished.</li>
   <li> About us page finished. </li>
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. </li>
+  <li> About us page.</li>
+  <li> Character page:<br> Images displaying in grid pushed to the left <br> Descriptions on right hand side of image. <br> Image is clickable and redirects to a page about that character</li>
 </ul>
