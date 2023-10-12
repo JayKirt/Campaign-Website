@@ -7,3 +7,7 @@
   <li> All link pages. ✔️ </li>
   <li> Image on home page. ✔️ </li>
 </ul>
+
+<ul>
+<h4> <ins> To do: </ins> </h4>
+</ul>
