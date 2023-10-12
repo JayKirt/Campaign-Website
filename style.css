@@ -1,0 +1,64 @@
+/* Removing Broswer Styles*/
+
+body {
+    margin: auto 0;   
+}
+
+/* Nav Bar */
+
+.navbar {
+    display:flex;
+    color:#FFF;
+    font-size:2em;
+    border-radius:4px;
+    border:1px solid #bbb;
+    transition: all 0.3s linear;
+}
+
+.nav-href {
+    text-decoration: none;
+    color:black;
+    list-style: none;
+    padding: 1em; 
+    display:inline-flex;
+    cursor:pointer;
+}
+
+@media only screen and (max-width: 600px) {
+    .main-nav {
+        flex-direction: column; /* Stack items vertically */
+        font-size: 1em; /* Adjust font size as needed */
+    }
+    .nav-href {
+        padding: 0.2em; /* Adjust padding as needed */
+    }
+}
+
+.nav-bar-logo {
+    width:5em;
+    height:100%;
+    margin: auto 0; 
+}
+
+.navbar:hover {
+        -webkit-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+        -moz-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+        -o-box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+        box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+
+}
+
+
+
+.nav-href:hover {
+    color:red
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+.about {
+    margin-left:auto;
+}
