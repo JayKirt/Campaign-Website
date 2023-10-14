@@ -11,6 +11,9 @@
 <ul>
 <h4> <ins> To do: </ins> </h4>
   <li> Home Page finished.</li>
+  <li> Add H1 to homepage</li>
+ 
+  
   <li> About us page finished. </li>
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. </li>
   <li> About us page.</li>
