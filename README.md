@@ -10,7 +10,8 @@
 
 <ul>
 <h4> <ins> To do: </ins> </h4>
-  <li> Home Page finished.</li>
+  <li> Home Page:<br> 
+  </li>
   <li> Add H1 to homepage ✔️</li>
   <li> Add H3 to homepage ✔️</li>
   <li> Align items in column ✔️</li>
