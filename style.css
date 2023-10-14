@@ -78,19 +78,32 @@ body {
         /* height:50vh; */
         flex-direction:column;
       gap:1px;
+      border-style:none;
+    }
     
     .cover { 
         width:30rem;
         padding-top:10px;
+    
         
     }
 
     .home-page-header{
         color:black;
-        padding-top: 40px;  
-      
+        padding-top: 50px;  
+        padding-bottom: 0px;
+        margin-bottom:0;
+        
     }
 
     .home-page-subheader{
-        color:black
-    }
+        color:black;
+        height: 10px;
+        line-height:10%;        
+        padding-top:0px;
+        margin:0px;
+        text-size-adjust:initial
+    }   
+    @media only screen and (max-width: 800px){
+        .home-page-subheader {
+            font-size: 0.8em; } }
