@@ -13,8 +13,10 @@
   <li> Home Page:<br> 
     Add H1 to homepage ✔️ <br>
     Add H3 to homepage ✔️ <br>
+    Align items in column ✔️ <br>
+    Add a short about summing up the world. <br>
   </li> 
-  <li> Align items in column ✔️</li>
+ 
   <li> About us page finished. </li>
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. </li>
   <li> About us page.</li>
