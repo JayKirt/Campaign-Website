@@ -11,8 +11,9 @@
 <ul>
 <h4> <ins> To do: </ins> </h4>
   <li> Home Page:<br> 
+    Add H1 to homepage ✔️
   </li>
-  <li> Add H1 to homepage ✔️</li>
+   Add H1 to homepage ✔️
   <li> Add H3 to homepage ✔️</li>
   <li> Align items in column ✔️</li>
   <li> About us page finished. </li>
