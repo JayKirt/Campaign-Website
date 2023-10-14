@@ -16,9 +16,8 @@
     Align items in column ✔️ <br>
     Add a short about summing up the world. <br>
     Decorate the page <br> 
-    
-  </li> 
- 
+    Sort background colours.
+  </li>
   <li> About us page finished. </li>
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. </li>
   <li> About us page.</li>
