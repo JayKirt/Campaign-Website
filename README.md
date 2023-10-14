@@ -15,6 +15,8 @@
     Add H3 to homepage ✔️ <br>
     Align items in column ✔️ <br>
     Add a short about summing up the world. <br>
+    Decorate the page <br> 
+    
   </li> 
  
   <li> About us page finished. </li>
