@@ -79,12 +79,15 @@ body {
         flex-direction:column;
       gap:1px;
       border-style:none;
+      background-color: #f70d1a90;
     }
     
     .cover { 
         width:30rem;
         padding-top:10px;
-    
+        max-width:100%;
+        
+        
         
     }
 
