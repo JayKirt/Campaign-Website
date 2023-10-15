@@ -134,11 +134,12 @@ body {
         grid-template-columns: 1fr 1fr;  
         border:2px black;   
         border-style:solid;
+        gap: 10%;
             }
     
     .player-image {
         width: 200px; 
         height: 300px; 
         object-fit:cover;
-        margin-left: 500px
+        margin-left: 70%;
     }
