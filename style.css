@@ -127,7 +127,7 @@ body {
     .player-grid-container {
         display:grid;
         grid-template-columns: 1fr;
-        gap:100px;}
+        gap:50px;}
         
     .grid-wrapper{
         display: grid;
@@ -138,7 +138,7 @@ body {
     
     .player-image {
         width: 200px; 
-        height: 200px; 
+        height: 300px; 
         object-fit:cover;
         margin-left: 500px
     }
