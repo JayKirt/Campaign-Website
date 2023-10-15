@@ -110,3 +110,15 @@ body {
     @media only screen and (max-width: 800px){
         .home-page-subheader {
             font-size: 0.8em; } }
+
+            /* PLAYER PAGE */
+
+    .player-header-container {
+                display:flex;
+                justify-content: center;
+        }
+
+        .player-main-header{
+            color:black;
+            padding-top:100px;
+            }
