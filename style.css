@@ -122,3 +122,10 @@ body {
             color:black;
             padding-top:100px;
             }
+
+            .player-grid-container {
+                display:grid;
+
+                
+            }
+         
