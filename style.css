@@ -118,14 +118,13 @@ body {
                 justify-content: center;
         }
 
-        .player-main-header{
-            color:black;
-            padding-top:100px;
+    .player-main-header{
+        color:black;
+        padding-top:100px;
             }
 
-            .player-grid-container {
-                display:grid;
-
-                
+    .player-grid-container {
+        display:grid;
+        grid-template-columns: 1fr;
             }
-         
+    
