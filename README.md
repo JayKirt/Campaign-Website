@@ -18,7 +18,6 @@
     Decorate the page <br> 
     Sort background colours.
   </li>
-  <li> About us page finished. </li>
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. </li>
   <li> About us page.</li>
   <li> Character page:<br>
