@@ -25,7 +25,8 @@
     Images displaying in grid pushed to the left ✔️<br> 
     Descriptions on right hand side of image. ✔️ <br> 
     Image is clickable and redirects to a page about that character </li>
-  <li> Campaign page: <br> Elipses leading betweeen images of campaign. <br> 
+  <li> Campaign page: <br> 
+    Elipses leading betweeen images of campaign. <br> 
     Images of campaign displaying in a circle. <br> 
     Images clickable and redirect to info on that event. </li>
   <li> Maps page: <br> 
