@@ -220,10 +220,12 @@ gap: 10%;
 }
 
 .camp-image {
-width: 100%; 
+width: 300px; 
 height: 300px; 
-object-fit:contain;
 margin-left: 40%;
+border-radius:50%;
+object-fit:cover;
+justify-self:center;
 }
 
 .camp-description{
