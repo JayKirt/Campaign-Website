@@ -28,6 +28,7 @@
     Elipses leading betweeen images of campaign. ✔️ <br> 
     Images of campaign displaying in a circle. <br> 
     Images clickable and redirect to info on that event. <br>
+    Description for campaign items set to right side.
       
   </li>
   <li> Maps page: <br> 
