@@ -29,7 +29,8 @@
     Images of campaign displaying in a circle. <br> 
     Images clickable and redirect to info on that event. <br>
     Description for campaign items set to right side.
-    Main title centred at top of page 
+    Main title centred at top of page.
+    Campaign session number to right side of campaign picture. 
       
   </li>
   <li> Maps page: <br> 
