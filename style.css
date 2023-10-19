@@ -217,7 +217,7 @@ display: grid;
 grid-template-columns: 1fr 0.2fr 1fr;
 border:2px black;   
 border-style:solid;
-gap: 10%;
+gap: 5%;
 grid-template-areas: "blank image text1";
 }
 
