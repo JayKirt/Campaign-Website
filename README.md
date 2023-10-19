@@ -40,7 +40,7 @@
   <li> NPC page: <br> 
     Npc images displaying on left side. ✔️ <br> 
     Header for Npc name. ✔️ <br> 
-    List item for some basic info - race, class, age etc. <br>
+    List item for some basic info - race, class, age etc. ✔️ <br>
     clickable images and texts that will redirect to a page about that Npc. </li>
 
 </ul>
