@@ -202,35 +202,38 @@ padding-top:100px;
 padding-bottom:100px;
 }
 
-.camp-grid-container {
+ /* .camp-grid-container {
 display:grid;
 grid-template-columns: 1fr;
-gap:50px;}
+gap:50px;}  */
 
 .camp-grid-wrapper{
 display: grid;
-grid-template-columns: 1fr 1fr;  
+grid-template-columns: 1fr 0.2fr 1fr;
 border:2px black;   
 border-style:solid;
 gap: 10%;
+grid-template-areas: "blank image text1";
 }
 
-.camp-name-header {
-    padding-left:5%;
-}
+
 
 .camp-image {
 width: 300px; 
 height: 300px; 
-margin-left: 40%;
 border-radius:50%;
 object-fit:cover;
-justify-self:center;
+grid-area: image;
+justify-self: center;
 }
+
+.camp-text-wrapper {
+    grid-area: text1;
+}
+ 
 
 .camp-description{
 padding-right:20%;
-padding-left: 5%;
 }
 
 
