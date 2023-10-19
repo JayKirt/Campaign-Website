@@ -207,10 +207,6 @@ padding-top:100px;
 padding-bottom:100px;
 }
 
- /* .camp-grid-container {
-display:grid;
-grid-template-columns: 1fr;
-gap:50px;}  */
 
 .camp-grid-wrapper{
 display: grid;
@@ -253,4 +249,38 @@ padding-right:20%;
 
 .last {
     margin-bottom: 50px;
+}
+
+/* NPC PAGE */
+
+.npc-header-container {
+    display:flex;
+    justify-content: center;
+}
+
+.npc-main-header{
+color:black;
+padding-top:100px;
+padding-bottom:100px;
+}
+
+.npc-grid-wrapper{
+display: grid;
+grid-template-columns: 1fr 0.2fr 1fr;  
+border:2px black;   
+border-style:solid;
+gap: 10%;
+grid-template-areas: "blank image text1";
+}
+
+.npc-image {
+width: 300px; 
+height: 300px; 
+object-fit:cover;
+grid-area: image;
+justify-self: center;
+}
+
+.npc-text-wrapper{
+grid-area:text1;
 }
