@@ -264,7 +264,7 @@ padding-top:100px;
 padding-bottom:100px;
 }
 
-.map-grid-container {
+.npc-grid-container{
     display:grid;
     grid-template-columns: 1fr;
     gap:50px;
