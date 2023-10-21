@@ -320,6 +320,8 @@ grid-area:text1;
     height:auto;
     background-color:#bbb;
     color: black;
+    border-radius: 40%;
+    padding-bottom:2%
   }
 
   
