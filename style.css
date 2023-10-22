@@ -318,10 +318,11 @@ grid-area:text1;
   .au-wrap {
     width: 60%;
     height:auto;
-    background-color:#bbb;
+    background-color:rgb(187, 187, 187, 0.6);
     color: black;
     border-radius: 40%;
-    padding-bottom:2%
+    padding-bottom:2%;
+    opacity: 0/8
   }
 
   
