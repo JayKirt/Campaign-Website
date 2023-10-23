@@ -325,3 +325,15 @@ grid-area:text1;
   }
 
   
+/* SECONDARY PAGES CSS */
+
+/* PLAYER PAGE LAYOUT */
+.profile-grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    max-width: 80%; /* Reduce the maximum width of the grid */
+    max-height: 50px; /* Reduce the maximum height of the grid row */
+    margin: 0 auto; /* Center the grid on the page */
+    padding-top: 5%; /* Add some padding to the grid */
+}
+
