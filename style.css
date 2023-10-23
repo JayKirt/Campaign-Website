@@ -141,7 +141,7 @@ a:hover {
 .player-image {
         width: 300px; 
         height: 300px; 
-        object-fit:cover;
+        object-fit:contain;
         grid-area: image;
         justify-self: center;
     }
@@ -331,9 +331,18 @@ grid-area:text1;
 .profile-grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    max-width: 80%; /* Reduce the maximum width of the grid */
-    max-height: 50px; /* Reduce the maximum height of the grid row */
-    margin: 0 auto; /* Center the grid on the page */
-    padding-top: 5%; /* Add some padding to the grid */
+    max-width: 80%; 
+    max-height: 50px; 
+    margin: 0 auto; 
+    padding-top: 5%; 
+}
+/* PLAN - need to make image a little smaller. make LI element smaller and closer together, name and title larger - move quoute out of grid and centre under grid and then add character Bio */
+
+.prof-image {
+    width: 400px; 
+    height: 400px; 
+    object-fit: contain; 
+    max-width: 100%; 
+    max-height: 100%;
 }
 
