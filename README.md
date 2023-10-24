@@ -72,4 +72,5 @@
 
   <li> <ins>NPC Profile page.</ins> <br> </li> <br> 
 
+  <li> <ins> Get good responsivity for width of 280px </ins></li>
 </ul>
