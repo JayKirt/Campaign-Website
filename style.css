@@ -61,9 +61,19 @@ a:hover {
         width:5em;
     }
 
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 870px){
     .main-nav {
             font-size: 0.5em;
+        padding: 0;
+    }
+    .nav-bar-logo {
+        padding:0;
+        height:fit-content;
+    }
+}
+@media only screen and (max-width: 650px){
+    .main-nav {
+        font-size: 0.3em;
         padding: 0;
     }
     .nav-bar-logo {
@@ -111,9 +121,15 @@ a:hover {
         margin:0px;
         text-size-adjust:initial
     }   
-@media only screen and (max-width: 800px){
+@media only screen and (max-width: 870px){
     .home-page-subheader {
          font-size: 0.8em; } }
+
+@media only screen and (max-width: 700px){
+    .home-page-subheader {
+        font-size: 0.6em; } }
+
+
 
             /* PLAYER PAGE */
 
@@ -380,6 +396,7 @@ grid-area:text1;
         opacity: 0.5;
 
 }
+
 /* NOTE Object-fit:cover Will make images the same size but crop them to this size 
 object-fit:contain - will show the image but make all images the same size */
 
