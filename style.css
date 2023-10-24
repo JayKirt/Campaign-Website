@@ -3,6 +3,10 @@ body {
     font-family: Arial;
     
     }
+
+img {
+    max-width: 100%;
+}
     
 .zone {
         cursor:pointer;
@@ -131,7 +135,7 @@ a:hover {
         
 .player-grid-wrapper{
         display: grid;
-        grid-template-columns: 1fr 0.2fr 1fr;  
+        grid-template-columns: 1fr 0.5fr 1fr;  
         border:2px black;   
         border-style:solid;
         gap: 5%;
@@ -139,9 +143,9 @@ a:hover {
 }
     
 .player-image {
-        width: 300px; 
+        width: 500px; 
         height: 300px; 
-        object-fit:cover;
+        object-fit:contain;
         grid-area: image;
         justify-self: center;
     }
@@ -210,7 +214,7 @@ padding-bottom:100px;
 
 .camp-grid-wrapper{
 display: grid;
-grid-template-columns: 1fr 0.2fr 1fr;
+grid-template-columns: 1fr 0.5fr 1fr;
 border:2px black;   
 border-style:solid;
 gap: 5%;
@@ -333,24 +337,35 @@ grid-area:text1;
 .profile-grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
+    grid-template-areas: "image text";
     max-width: 80%; 
     margin: 0 auto; 
     padding-top: 5%; 
+    gap:1%;
 }
 
+.p-image-container {
+    grid-area: image;
+    display: flex;
+    justify-content: center;
+}
 
 .prof-image {
-    width: 400px; 
-    height: 400px; 
-    object-fit:cover; 
-    margin-top: 3%;
-    margin-left: 15%
-
+    max-width: 400px;
+    max-height: 400px;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
+
 
 .p-text-wrapper {
-    margin-top:5%;
+    grid-area:text;
+    margin-top:3%;
+    margin-left:1%
 }
+
+
 
 .p-atribute-list{
     line-height: 5%;
@@ -367,3 +382,4 @@ grid-area:text1;
 }
 /* NOTE Object-fit:cover Will make images the same size but crop them to this size 
 object-fit:contain - will show the image but make all images the same size */
+
