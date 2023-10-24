@@ -16,8 +16,8 @@
     Align items in column ✔️ <br>
     Add a short about summing up the world. <br>
     Decorate the page <br> 
-    Sort background colours. <br>
-  </li>
+    Sort background colours. 
+  </li> <br>
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. </li> <br>
   <li> About us page.</li> <br>
   <li> Character page:<br>
@@ -30,9 +30,9 @@
     Images clickable and redirect to info on that event.  <br> 
     Description for campaign items set to right side. ✔️ <br>
     Main title centred at top of page. ✔️<br>
-    Campaign session number to right side of campaign picture.✔️ <br>
+    Campaign session number to right side of campaign picture.✔️ 
       
-  </li>
+  </li> <br>
   <li> Maps page: <br> 
     Map images displaying in a list pushed to the left. ✔️ <br> 
     Clickable images that redirect to information on said map. <br> 
