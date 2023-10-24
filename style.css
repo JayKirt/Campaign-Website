@@ -131,11 +131,11 @@ a:hover {
 
 
 
-            /* PLAYER PAGE */
+            /* PLAYER PAGE AND NPC  */
 
 .player-header-container {
-                display:flex;
-                justify-content: center;
+        display:flex;
+        justify-content: center;
         }
 
 .player-main-header{
@@ -288,46 +288,7 @@ padding-right:20%;
     margin-bottom: 50px;
 }
 
-/* NPC PAGE */
 
-.npc-header-container {
-    display:flex;
-    justify-content: center;
-}
-
-.npc-main-header{
-color:black;
-padding-top:100px;
-padding-bottom:100px;
-}
-
-.npc-grid-container{
-    display:grid;
-    grid-template-columns: 1fr;
-    gap:50px;
-}
-    
-
-.npc-grid-wrapper{
-display: grid;
-grid-template-columns: 1fr 0.2fr 1fr;  
-border:2px black;   
-border-style:solid;
-gap: 5%;
-grid-template-areas: "blank image text1";
-}
-
-.npc-image {
-width: 300px; 
-height: 300px; 
-object-fit:cover;
-grid-area: image;
-justify-self: center;
-}
-
-.npc-text-wrapper{
-grid-area:text1;
-}
 
 /* ABOUT US PAGE */
 
@@ -364,7 +325,7 @@ grid-area:text1;
   
 /* SECONDARY PAGES CSS */
 
-/* PLAYER PAGE LAYOUT */
+/* PLAYER PAGE LAYOUT AND NPC PAGE LAYOUT */
 
 
 .profile-grid-container {
@@ -394,14 +355,18 @@ grid-area:text1;
 
 .p-text-wrapper {
     grid-area:text;
-    margin-top:3%;
-    margin-left:1%
 }
 
+.p-header-container {
+    font-size:1.2em;
+}
 
+.p-title {
+    font-size:1em
+}
 
 .p-atribute-list{
-    line-height: 5%;
+    line-height: 0.5px;
    
 }
 .quote-container{
@@ -412,6 +377,15 @@ grid-area:text1;
         font-size:2em;
         opacity: 0.5;
 
+}
+
+.p-bio {
+    display:flex;
+    color:black;
+    text-align: center;
+   margin-top:5%;
+   margin-left: 10%;
+   margin-right:10%;
 }
 
 /* NOTE Object-fit:cover Will make images the same size but crop them to this size 
