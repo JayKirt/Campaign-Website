@@ -53,19 +53,19 @@
     clickable images and texts that will redirect to a page about that Npc. <br>
     Make page responsive </li><br>
 
-    <li> Added secondary pages all linked to nav ✔️ </li> <br> 
-
-    <li> Nav links back from all secondary pages ✔️ </li> <br>
-
-    <li> ***** SECONDARY PAGES ***** </li> <br> 
-
-    <li> Player Profile page <br>
-    Image of player on left✔️ <br> 
-    Name, Title and Statistics on right✔️ <br> 
-    Quote opaque and centred below image and statistics✔️<br> 
-    Biography below quote <br> 
-    Responsive ✔️</li> <br> 
-    
+      <li> Added secondary pages all linked to nav ✔️ </li> <br> 
+  
+      <li> Nav links back from all secondary pages ✔️ </li> <br>
+  
+      <li> ***** SECONDARY PAGES ***** </li> <br> 
+  
+      <li> Player Profile page <br>
+      Image of player on left✔️ <br> 
+      Name, Title and Statistics on right✔️ <br> 
+      Quote opaque and centred below image and statistics✔️<br> 
+      Biography below quote <br> 
+      Responsive ✔️</li> <br> 
+      
     
 
 </ul>
