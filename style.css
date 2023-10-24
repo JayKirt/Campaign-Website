@@ -159,8 +159,10 @@ a:hover {
 }
     
 .player-image {
-        width: 500px; 
-        height: 300px; 
+        height:100%;
+        width:100%;
+        max-width: 500px; 
+        max-height: 300px; 
         object-fit:contain;
         grid-area: image;
         justify-self: center;
@@ -168,7 +170,22 @@ a:hover {
 
     .player-text-wrapper{
         grid-area:text1;
+        line-height:0;
     }
+    @media only screen and (max-width: 870px){
+        .player-text-wrapper {
+             font-size: 0.8em; 
+            } }
+             @media only screen and (max-width: 600px){
+                .player-text-wrapper {
+                     font-size: 0.6em; } }
+             
+    @media only screen and (max-width: 870px){
+        .player-grid-container  {
+                gap:5px;
+                padding:0;} }
+                     
+        
 
     /*MAPS PAGE  */
 
@@ -237,9 +254,9 @@ gap: 5%;
 grid-template-areas: "blank image text1";
 }
 
-.camp-image {
-width: 300px; 
-height: 300px; 
+.camp-image { 
+width: 300px;
+height:300px;
 border-radius:50%;
 object-fit:cover;
 grid-area: image;
