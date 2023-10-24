@@ -141,7 +141,7 @@ a:hover {
 .player-image {
         width: 300px; 
         height: 300px; 
-        object-fit:contain;
+        object-fit:cover;
         grid-area: image;
         justify-self: center;
     }
@@ -341,8 +341,9 @@ grid-area:text1;
 .prof-image {
     width: 400px; 
     height: 400px; 
-    object-fit: contain; 
-    max-width: 100%; 
-    max-height: 100%;
+    object-fit:cover; 
+
 }
 
+/* NOTE Object-fit:cover Will make images the same size but crop them to this size 
+object-fit:contain - will show the image but make all images the same size */
