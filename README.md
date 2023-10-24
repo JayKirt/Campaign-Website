@@ -24,13 +24,13 @@
  
   <li> About us page. ✔️</li>  <br>
  
-  <li> Character page:<br>
+  <li><ins> Character page: </ins><br>
     Images displaying in grid pushed to the left ✔️<br> 
     Descriptions on right hand side of image. ✔️ <br> 
     Image is clickable and redirects to a page about that character ✔️
   Make Responsive. ✔️</li> <br>
   
-  <li> Campaign page: <br> 
+  <li> <ins>Campaign page: </ins> <br> 
     Elipses leading betweeen images of campaign. ✔️ <br> 
     Images of campaign displaying in a circle. <br> 
     Images clickable and redirect to info on that event.  <br> 
@@ -39,14 +39,14 @@
     Campaign session number to right side of campaign picture.✔️  <br>
     Make page responsive - make dots smaller and images keep 50% border radius and stay a circle shape on re-size</li> <br>
   
-  <li> Maps page: <br> 
+  <li><ins> Maps page: </ins> <br> 
     Map images displaying in a list pushed to the left. ✔️ <br> 
     Clickable images that redirect to information on said map. <br> 
     Header for each map with name of location.✔️ <br>
     Make page responsive. maps changing size and images not overlapping 
   </li>   <br>
   
-  <li> NPC page: <br> 
+  <li><ins>NPC page:</ins> <br> 
     Npc images displaying on left side. ✔️ <br> 
     Header for Npc name. ✔️ <br> 
     List item for some basic info - race, class, age etc. ✔️ <br>
@@ -59,13 +59,17 @@
   
  <li> ***** SECONDARY PAGES ***** </li> <br> 
   
-<li> Player Profile page <br>
+<li> <ins>Player Profile page</ins> <br>
   Image of player on left✔️ <br> 
       Name, Title and Statistics on right✔️ <br> 
       Quote opaque and centred below image and statistics✔️<br> 
       Biography below quote <br> 
       Responsive ✔️</li> <br> 
       
-    
+  <li> <ins>Detailed Map page.</ins> <br> </li> <br> 
+
+  <li> <ins>Detailed Campaign page.</ins> <br> </li> <br> 
+
+  <li> <ins>NPC Profile page.</ins> <br> </li> <br> 
 
 </ul>
