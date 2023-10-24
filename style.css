@@ -328,22 +328,42 @@ grid-area:text1;
 /* SECONDARY PAGES CSS */
 
 /* PLAYER PAGE LAYOUT */
+
+
 .profile-grid-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
     max-width: 80%; 
-    max-height: 50px; 
     margin: 0 auto; 
     padding-top: 5%; 
 }
-/* PLAN - need to make image a little smaller. make LI element smaller and closer together, name and title larger - move quoute out of grid and centre under grid and then add character Bio */
+
 
 .prof-image {
     width: 400px; 
     height: 400px; 
     object-fit:cover; 
+    margin-top: 3%;
+    margin-left: 15%
 
 }
 
+.p-text-wrapper {
+    margin-top:5%;
+}
+
+.p-atribute-list{
+    line-height: 5%;
+   
+}
+.quote-container{
+        text-align: center;
+        margin: 0 auto;
+        width: 50%; 
+        margin-top: 5%;
+        font-size:2em;
+        opacity: 0.5;
+
+}
 /* NOTE Object-fit:cover Will make images the same size but crop them to this size 
 object-fit:contain - will show the image but make all images the same size */
