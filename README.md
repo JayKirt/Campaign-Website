@@ -43,7 +43,7 @@
     Map images displaying in a list pushed to the left. ✔️ <br> 
     Clickable images that redirect to information on said map. ✔️ <br> 
     Header for each map with name of location.✔️ <br>
-    Make page responsive. maps changing size and images not overlapping 
+    Make page responsive. maps changing size and images not overlapping ✔️
   </li>   <br>
   
   <li><ins>NPC page:</ins> <br> 
