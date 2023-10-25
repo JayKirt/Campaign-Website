@@ -1,7 +1,6 @@
 body {
     margin: auto 0;
     font-family: Arial;
-    
     }
 
 img {
@@ -251,7 +250,7 @@ gap: 5%;
 @media only screen and (max-width: 700px){
     .map-name-header {
     font-size: 0.8em;
-               ;}
+               }}
 
 /* Campaign page*/
 
@@ -445,4 +444,3 @@ padding-right:20%;
 }
 /* NOTE Object-fit:cover Will make images the same size but crop them to this size 
 object-fit:contain - will show the image but make all images the same size */
-
