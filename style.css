@@ -434,7 +434,7 @@ padding-right:20%;
     display:flex;
     color:black;
     text-align: center;
-   margin-top:5%;
+    margin-top:5%;
    margin-left: 10%;
    margin-right:10%;
 }
@@ -444,3 +444,5 @@ padding-right:20%;
 }
 /* NOTE Object-fit:cover Will make images the same size but crop them to this size 
 object-fit:contain - will show the image but make all images the same size */
+
+/* MAP PAHE MOST STYLES FROM ABOVE BUT MAP IMAGE NEEDS TO BE LARGER */
