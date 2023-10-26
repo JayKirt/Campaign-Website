@@ -71,10 +71,13 @@
 
   <li> <ins>Detailed Campaign page.</ins> <br> </li> <br> 
 
-  <li> <ins>NPC Profile page.</ins> <br> </li> <br> 
+  <li> <ins>NPC Profile page.</ins> 
+   NPC Image on left <br> 
+   NPC Name and title on right, same height as pic <br> 
+  <br> </li> <br> 
 
   <li> <ins> Get good responsivity for width of 280px </ins> <br>
-  Main area's of issue <br>
+  Main area's of issue: <br>
     Nav Bar (not displaying all links) <br>
     Home Page (whole page Does not fit to screen okay at 375px width not at 280px) <br>
     Character page (text overlap at 412 px width) <br>
