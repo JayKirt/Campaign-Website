@@ -17,7 +17,7 @@
     Add a short about summing up the world. <br>
     Decorate the page <br> 
     Sort background colours.<br>
-    Responsive ✔️ 
+    Responsive too 600 px ✔️ 
   </li> <br>
   
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. ✔️ </li> <br>
