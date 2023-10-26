@@ -65,7 +65,7 @@
       Name, Title and Statistics on right✔️ <br> 
       Quote opaque and centred below image and statistics✔️<br> 
       Biography below quote <br> 
-      Responsive ✔️</li> <br> 
+      Responsive  to 600 px✔️</li> <br> 
       
   <li> <ins>Detailed Map page.</ins> <br> </li> <br> 
 
