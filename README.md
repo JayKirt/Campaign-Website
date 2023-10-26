@@ -76,8 +76,8 @@
    NPC Name and title on right, same height as pic. ✔️ <br> 
     NPC stats in a list to the right of the pic below title and name. ✔️ <br> 
   NPC quote in grey and slight opaque below image and stats. ✔️ <br> 
-    NPC BIO at bottom of page below quote. <br> 
-    Page responsive down to 600 px. 
+    NPC BIO at bottom of page below quote. ✔️ <br> 
+    Page responsive down to 600 px. ✔️
     
   <br> </li> <br> 
 
