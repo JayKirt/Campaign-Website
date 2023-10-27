@@ -64,10 +64,14 @@
   Image of player on left✔️ <br> 
       Name, Title and Statistics on right✔️ <br> 
       Quote opaque and centred below image and statistics✔️<br> 
-      Biography below quote <br> 
+      Biography below quote ✔️ <br> 
       Responsive  to 600 px✔️</li> <br> 
       
   <li> <ins>Detailed Map page.</ins> <br> </li> <br> 
+   Header top of screen and centre above map <br>
+  Map in centre of screen <br>
+  Full map image shown, no distortion <br> 
+  
 
   <li> <ins>Detailed Campaign page.</ins> <br> </li> <br> 
 
