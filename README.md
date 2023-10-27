@@ -52,7 +52,7 @@
     Header for Npc name. ✔️ <br> 
     List item for some basic info - race, class, age etc. ✔️ <br>
     clickable images and texts that will redirect to a page about that Npc. ✔️ <br>
-    Make page responsive up to 600 px ✔️ </li><br>
+    Make page responsive up to 600 px. ✔️ </li><br>
     
 <li> Added secondary pages all linked to nav ✔️ </li> <br> 
   
@@ -61,11 +61,11 @@
  <li> ***** SECONDARY PAGES ***** </li> <br> 
   
 <li> <ins>Player Profile page</ins> <br>
-  Image of player on left✔️ <br> 
-      Name, Title and Statistics on right✔️ <br> 
-      Quote opaque and centred below image and statistics✔️<br> 
-      Biography below quote ✔️ <br> 
-      Responsive  to 600 px✔️</li> <br> 
+  Image of player on left. ✔️ <br> 
+      Name, Title and Statistics on right. ✔️ <br> 
+      Quote opaque and centred below image and statistics. ✔️<br> 
+      Biography below quote.✔️ <br> 
+      Responsive  to 600 px. ✔️</li> <br> 
       
   <li> <ins>Detailed Map page.</ins> <br> </li> <br> 
    Header top of screen and centre above map <br>
