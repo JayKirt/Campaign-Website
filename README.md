@@ -11,13 +11,13 @@
 <ul>
 <h4> <ins> To do: </ins> </h4>
   <li> Home Page:<br> 
-    Add H1 to homepage ✔️ <br>
-    Add H3 to homepage ✔️ <br>
-    Align items in column ✔️ <br>
+    Add H1 to homepage. ✔️ <br>
+    Add H3 to homepage. ✔️ <br>
+    Align items in column. ✔️ <br>
     Add a short about summing up the world. <br>
-    Decorate the page <br> 
+    Decorate the page. <br> 
     Sort background colours.<br>
-    Responsive too 600 px ✔️ 
+    Responsive too 600 px. ✔️ 
   </li> <br>
   
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. ✔️ </li> <br>
