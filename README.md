@@ -67,7 +67,7 @@
       Biography below quote.✔️ <br> 
       Responsive  to 600 px. ✔️</li> <br> 
       
-  <li> <ins>Detailed Map page.</ins> <br> </li> <br> 
+  <li> <ins>Detailed Map page.</ins> </li> <br> 
    Header top of screen and centre above map <br>
   Map in centre of screen <br>
   Full map image shown, no distortion <br> 
