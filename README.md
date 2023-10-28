@@ -76,7 +76,8 @@
   
 
   <li> <ins>Detailed Campaign page.</ins> <br> </li> <br> 
-  Header at top in centre. 
+  Header at top in centre. <br>
+  Image below header in centre. <br>
 
   <li> <ins>NPC Profile page.</ins> 
    NPC Image on left. ✔️ <br> 
