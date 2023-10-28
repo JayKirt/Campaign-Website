@@ -75,10 +75,11 @@
   Paragraph about map area below details. 
   
 
-  <li> <ins>Detailed Campaign page.</ins> <br> </li> <br> 
+  <li> <ins>Detailed Campaign page.</ins> <br> 
   Header at top in centre. <br>
   Image below header in centre. <br>
   Key events pushed to left below map. <br> 
+  Main paragraph about this part of the campaign. </li> <br> 
 
   <li> <ins>NPC Profile page.</ins> 
    NPC Image on left. ✔️ <br> 
