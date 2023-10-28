@@ -81,7 +81,7 @@
   Key events pushed to left below map. <br> 
   Main paragraph about this part of the campaign. </li> <br> 
 
-  <li> <ins>NPC Profile page.</ins> 
+  <li> <ins>NPC Profile page.</ins> <br>
    NPC Image on left. ✔️ <br> 
    NPC Name and title on right, same height as pic. ✔️ <br> 
     NPC stats in a list to the right of the pic below title and name. ✔️ <br> 
