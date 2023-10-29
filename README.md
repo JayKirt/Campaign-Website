@@ -48,9 +48,8 @@
     Header for each map with name of location.✔️ <br>
     Make page responsive. maps changing size and images not overlapping up to 600 px.✔️
     Media breaks to re-size images ✔️ <br>
-    Media breaks to re-size text
-  
-  </li>   <br>
+    Media breaks to re-size text ✔️ <br> 
+   </li>   <br>
   
   <li><ins>NPC page:</ins> <br> 
     Npc images displaying on left side. ✔️ <br> 
