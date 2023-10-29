@@ -39,6 +39,7 @@
     Main title centred at top of page. ✔️<br>
     Campaign session number to right side of campaign picture.✔️  <br>
     Make page responsive - make dots smaller and images keep 50% border radius and stay a circle shape on re-size up to 600 px. ✔️ </li> <br>
+    Media breaks to re-size dots
   
   <li><ins> Maps page: </ins> <br> 
     Map images displaying in a list pushed to the left. ✔️ <br> 
