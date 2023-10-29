@@ -47,7 +47,7 @@
     Clickable images that redirect to information on said map. ✔️ <br> 
     Header for each map with name of location.✔️ <br>
     Make page responsive. maps changing size and images not overlapping up to 600 px.✔️
-    Media breaks to re-size imag
+    Media breaks to re-size images ✔️ <br>
     Media breaks to re-size text
   
   </li>   <br>
