@@ -72,7 +72,7 @@
       Responsive  to 600 px. ✔️</li> <br> 
       
   <li> <ins>Detailed Map page.</ins> <br> 
-   Header top of screen and centre above map <br>
+   Header top of screen and centre above map. <br>
   Map in centre of screen. <br>
   Full map image shown, no distortion. <br> 
   List of details about area pushed to left. <br> 
