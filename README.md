@@ -60,7 +60,7 @@
     
 <li> Added secondary pages all linked to nav. ✔️ </li> <br> 
   
-<li> Nav links back from all secondary pages ✔️ </li> <br>
+<li> Nav links back from all secondary pages. ✔️ </li> <br>
   
  <li> ***** SECONDARY PAGES ***** </li> <br> 
   
