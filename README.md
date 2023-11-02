@@ -5,7 +5,7 @@
   <h4> <ins> Completed: </ins> </h4>
   <li> Nav bar. ✔️ </li>
   <li> All link pages. ✔️ </li>
-  <li> Image on home page. ✔️ </li>
+  <li> Image on home page. ✔️</li>
 </ul>
 
 <ul>
@@ -38,14 +38,18 @@
     Description for campaign items set to right side. ✔️ <br>
     Main title centred at top of page. ✔️<br>
     Campaign session number to right side of campaign picture.✔️  <br>
-    Make page responsive - make dots smaller and images keep 50% border radius and stay a circle shape on re-size up to 600 px. ✔️ </li> <br>
+    Make page responsive - make dots smaller and images keep 50% border radius and stay a circle shape on re-size up to 600 px. ✔️  <br>
+    Media breaks to re-size dots. ✔️ <br> 
+    Media breaks to keep images in circles. ✔️<br> </li>
   
   <li><ins> Maps page: </ins> <br> 
     Map images displaying in a list pushed to the left. ✔️ <br> 
     Clickable images that redirect to information on said map. ✔️ <br> 
     Header for each map with name of location.✔️ <br>
     Make page responsive. maps changing size and images not overlapping up to 600 px.✔️
-  </li>   <br>
+    Media breaks to re-size images. ✔️ <br>
+    Media breaks to re-size text. ✔️ <br> 
+   </li>   <br>
   
   <li><ins>NPC page:</ins> <br> 
     Npc images displaying on left side. ✔️ <br> 
@@ -54,9 +58,9 @@
     clickable images and texts that will redirect to a page about that Npc. ✔️ <br>
     Make page responsive up to 600 px. ✔️ </li><br>
     
-<li> Added secondary pages all linked to nav ✔️ </li> <br> 
+<li> Added secondary pages all linked to nav. ✔️ </li> <br> 
   
-<li> Nav links back from all secondary pages ✔️ </li> <br>
+<li> Nav links back from all secondary pages. ✔️ </li> <br>
   
  <li> ***** SECONDARY PAGES ***** </li> <br> 
   
@@ -68,10 +72,10 @@
       Responsive  to 600 px. ✔️</li> <br> 
       
   <li> <ins>Detailed Map page.</ins> <br> 
-   Header top of screen and centre above map <br>
-  Map in centre of screen <br>
-  Full map image shown, no distortion <br> 
-  List of details about area pushed to left <br> 
+   Header top of screen and centre above map. <br>
+  Map in centre of screen. <br>
+  Full map image shown, no distortion. <br> 
+  List of details about area pushed to left. <br> 
   Paragraph about map area below details. </li> 
   
 
