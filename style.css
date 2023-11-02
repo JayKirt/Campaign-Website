@@ -450,9 +450,30 @@ object-fit:contain - will show the image but make all images the same size */
 .nav-push {
     margin-top:10%;
 }
+
 .m-container {
     display:grid;
     width:100%;
     grid-template-columns: repeat(2, minmax(200px, 1fr) );
     grid-template-areas:"title title" "image image" "stats blank" "para para";
+    grid-template-rows: 1fr
+}
+
+.m-header-contaner{
+    grid-area: title;
+}
+
+.m-image-container{
+    grid-area: image;
+    max-height: 50%;
+    max-width: 50%;
+    justify-self: center
+}
+
+.m-list {
+    grid-area: stats;
+}
+
+.m-main-p {
+    grid-area: para;
 }
