@@ -486,5 +486,9 @@ object-fit:contain - will show the image but make all images the same size */
 
 .m-main-p {
     grid-area: para;
-    margin: 2% 10% 5% 10%
+    margin: 2% 10% 5% 10%;
+    border-top: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    padding: 2%
 }
