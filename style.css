@@ -442,8 +442,16 @@ padding-right:20%;
 .pusher {
     margin-top: 2%;
 }
+
 /* NOTE Object-fit:cover Will make images the same size but crop them to this size 
 object-fit:contain - will show the image but make all images the same size */
 
 /* SECONDARY MAP PAGE  */
-
+.nav-push {
+    margin-top:10%;
+}
+.m-container {
+    display:grid;
+    width:100%;
+    grid-template-columns: repeat(2, minmax(200px, 1fr) )  ;
+}
