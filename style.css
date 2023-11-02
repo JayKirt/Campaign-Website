@@ -453,5 +453,6 @@ object-fit:contain - will show the image but make all images the same size */
 .m-container {
     display:grid;
     width:100%;
-    grid-template-columns: repeat(2, minmax(200px, 1fr) )  ;
+    grid-template-columns: repeat(2, minmax(200px, 1fr) );
+    grid-template-areas:"title title" "image image" "stats blank" "para para";
 }
