@@ -461,6 +461,9 @@ object-fit:contain - will show the image but make all images the same size */
 
 .m-header-contaner{
     grid-area: title;
+    text-align: center;
+    text-decoration: underline;
+    margin-bottom: 5%;
 }
 
 .m-image-container{
@@ -472,6 +475,11 @@ object-fit:contain - will show the image but make all images the same size */
 
 .m-list {
     grid-area: stats;
+    line-height: 0.5px;
+    justify-self: center;
+    margin-left: 200px;
+    margin-bottom: 6%;
+    margin-top: 6%
 }
 
 .m-main-p {
