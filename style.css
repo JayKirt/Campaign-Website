@@ -448,7 +448,7 @@ object-fit:contain - will show the image but make all images the same size */
 
 /* SECONDARY MAP PAGE  */
 .nav-push {
-    margin-top:10%;
+    margin-top:6%;
 }
 
 .m-container {
@@ -463,25 +463,28 @@ object-fit:contain - will show the image but make all images the same size */
     grid-area: title;
     text-align: center;
     text-decoration: underline;
-    margin-bottom: 5%;
+    margin-bottom: 3%;
 }
 
 .m-image-container{
     grid-area: image;
-    max-height: 50%;
-    max-width: 50%;
-    justify-self: center
+    max-height: 40%;
+    max-width: 40%;
+    justify-self: center;
+    
 }
 
 .m-list {
     grid-area: stats;
     line-height: 0.5px;
-    justify-self: center;
-    margin-left: 200px;
-    margin-bottom: 6%;
-    margin-top: 6%
+    margin-left: 50%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+    border-top: 2px solid black;
+    width:100%
 }
 
 .m-main-p {
     grid-area: para;
+    margin: 2% 10% 5% 10%
 }
