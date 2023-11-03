@@ -503,10 +503,12 @@ object-fit:contain - will show the image but make all images the same size */
 
 .c-header {
     grid-area: title;
+    text-align: center;
 }
 
 .c-image {
     grid-area: image;
+    justify-self:center;
 }
 .c-summary {
     grid-area: summary;
