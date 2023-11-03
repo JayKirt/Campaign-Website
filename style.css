@@ -496,7 +496,6 @@ object-fit:contain - will show the image but make all images the same size */
 /* CAMPAIGN PAGES SECONDARY */
 
 .c-grid-container {
-    /* width:100%; */
     display:grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: "title title" "image image" "summary blank" "fulltext fulltext";
@@ -505,7 +504,6 @@ object-fit:contain - will show the image but make all images the same size */
 .c-header {
     grid-area: title;
     text-align: center;
-    margin-bottom: 2%
 }
 
 .c-image {
