@@ -510,12 +510,12 @@ object-fit:contain - will show the image but make all images the same size */
 .c-image {
     grid-area: image;
     justify-self:center;
-    margin-bottom: 2%
+    margin: 0 0 2% 0
 }
 .c-summary {
     grid-area: summary;
     justify-self:center;
-    
+    margin: 0 0 2% 5%
 }
 .c-full-text {
     grid-area: fulltext;
