@@ -502,5 +502,9 @@ object-fit:contain - will show the image but make all images the same size */
 }
 
 .c-header {
-    grid-area: title
+    grid-area: title;
+}
+
+.c-image {
+    grid-area: image;
 }
