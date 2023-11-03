@@ -525,3 +525,4 @@ object-fit:contain - will show the image but make all images the same size */
     justify-self:center;
     margin-bottom: 2%
 }
+/* Need to push image up slightly and have all other elements moe up with it */
