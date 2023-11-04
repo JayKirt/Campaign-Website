@@ -83,7 +83,9 @@
   Header at top in centre. ✔️ <br>
   Image below header in centre.✔️ <br>
   Key events pushed to left below map. ✔️<br> 
-  Main paragraph about this part of the campaign.✔️ <br> </li> <br> 
+  Main paragraph about this part of the campaign.✔️ <br> 
+  Fine tune.
+  </li> <br> 
 
   <li> <ins>NPC Profile page.</ins> <br>
    NPC Image on left. ✔️ <br> 
