@@ -80,7 +80,7 @@
   
 
   <li> <ins>Detailed Campaign page.</ins> 
-  Header at top in centre. <br>
+  Header at top in centre. ✔️ <br>
   Image below header in centre. <br>
   Key events pushed to left below map. <br> 
   Main paragraph about this part of the campaign. </li> <br> 
