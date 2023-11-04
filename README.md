@@ -85,6 +85,7 @@
   Key events pushed to left below map. ✔️<br> 
   Main paragraph about this part of the campaign.✔️ <br> 
   Fine tune.
+  Make responsive.
   </li> <br> 
 
   <li> <ins>NPC Profile page.</ins> <br>
