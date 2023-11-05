@@ -516,14 +516,19 @@ object-fit:contain - will show the image but make all images the same size */
     
 }
 .c-summary {
+    border-top: 2px solid black;
+    border-right: 2px solid black;
     grid-area: summary;
     justify-self:end;
-    margin-right: 12%;
+    margin-right: 20%;
     margin-bottom: 2%;
+    margin-top: 8%;
+    padding: 2%
 }
 .c-full-text {
     grid-area: fulltext;
     justify-self:center;
-    margin-bottom: 2%
+    margin-bottom: 2%;
+    margin-top: 5%
 }
 /* Need to push image up slightly and have all other elements moe up with it */
