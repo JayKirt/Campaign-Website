@@ -80,10 +80,13 @@
   
 
   <li> <ins>Detailed Campaign page.</ins> 
-  Header at top in centre. <br>
-  Image below header in centre. <br>
-  Key events pushed to left below map. <br> 
-  Main paragraph about this part of the campaign. </li> <br> 
+  Header at top in centre. ✔️ <br>
+  Image below header in centre.✔️ <br>
+  Key events pushed to left below map. ✔️<br> 
+  Main paragraph about this part of the campaign.✔️ <br> 
+  Fine tune.
+  Make responsive.
+  </li> <br> 
 
   <li> <ins>NPC Profile page.</ins> <br>
    NPC Image on left. ✔️ <br> 
