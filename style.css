@@ -50,6 +50,7 @@ li {
 a { 
         color:black;
         text-decoration:none;
+        
     }
 
 a:hover {
@@ -499,6 +500,7 @@ object-fit:contain - will show the image but make all images the same size */
     display:grid;
     grid-template-columns: 1fr 1fr;
     grid-template-areas: "title title" "image image" "summary blank" "fulltext fulltext";
+    gap:0;
 }
 
 .c-header {
