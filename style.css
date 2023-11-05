@@ -503,15 +503,14 @@ object-fit:contain - will show the image but make all images the same size */
 }
 
 .c-header {
-    grid-area: title;
-    text-align: center;
-    align-self: end;
+    grid-area: image;
+    text-align:center;
 }
 
 .c-image {
     grid-area: image;
     justify-self:center;
-    max-height: 70%;
+    max-height: 80%;
     max-width:60%;
     align-self:end;
     
