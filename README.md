@@ -9,7 +9,7 @@
 </ul>
 
 <ul>
-<h4> <ins> To do: </ins> </h4>
+<h4> <ins> To do: </ins></h4>
   <li> Home Page:<br> 
     Add H1 to homepage. ✔️ <br>
     Add H3 to homepage. ✔️ <br>
@@ -22,7 +22,7 @@
   
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. ✔️ </li> <br>
  
-  <li> About us page. ✔️</li>  <br>
+  <li> About us page. ✔️</li> <br>
  
   <li><ins> Character page: </ins><br>
     Images displaying in grid pushed to the left. ✔️<br> 
@@ -37,7 +37,7 @@
     Images clickable and redirect to info on that event. ✔️ <br> 
     Description for campaign items set to right side. ✔️ <br>
     Main title centred at top of page. ✔️<br>
-    Campaign session number to right side of campaign picture.✔️  <br>
+    Campaign session number to right side of campaign picture. ✔️  <br>
     Make page responsive - make dots smaller and images keep 50% border radius and stay a circle shape on re-size up to 600 px. ✔️  <br>
     Media breaks to re-size dots. ✔️ <br> 
     Media breaks to keep images in circles. ✔️<br> </li>
@@ -45,8 +45,8 @@
   <li><ins> Maps page: </ins> <br> 
     Map images displaying in a list pushed to the left. ✔️ <br> 
     Clickable images that redirect to information on said map. ✔️ <br> 
-    Header for each map with name of location.✔️ <br>
-    Make page responsive. maps changing size and images not overlapping up to 600 px.✔️
+    Header for each map with name of location. ✔️ <br>
+    Make page responsive. maps changing size and images not overlapping up to 600 px.✔️ <br>
     Media breaks to re-size images. ✔️ <br>
     Media breaks to re-size text. ✔️ <br> 
    </li>   <br>
@@ -69,7 +69,10 @@
       Name, Title and Statistics on right. ✔️ <br> 
       Quote opaque and centred below image and statistics. ✔️<br> 
       Biography below quote.✔️ <br> 
-      Responsive  to 600 px. ✔️</li> <br> 
+      Responsive  to 600 px. ✔️<br> 
+      Add links to character attributes. <br>  
+      Add links for character equipped gear. 
+</li> <br> 
       
   <li> <ins>Detailed Map page.</ins> <br> 
    Header top of screen and centre above map. ✔️ <br>
