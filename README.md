@@ -71,6 +71,7 @@
       Biography below quote.✔️ <br> 
       Responsive  to 600 px. ✔️<br> 
       Add links to character attributes <br>  
+      Add links for character equipped gear 
 </li> <br> 
       
   <li> <ins>Detailed Map page.</ins> <br> 
