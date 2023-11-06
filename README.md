@@ -22,7 +22,7 @@
   
   <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. ✔️ </li> <br>
  
-  <li> About us page. ✔️</li>  <br>
+  <li> About us page. ✔️</li> <br>
  
   <li><ins> Character page: </ins><br>
     Images displaying in grid pushed to the left. ✔️<br> 
