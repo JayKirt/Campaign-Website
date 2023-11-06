@@ -9,7 +9,7 @@
 </ul>
 
 <ul>
-<h4> <ins> To do: </ins> </h4>
+<h4> <ins> To do: </ins></h4>
   <li> Home Page:<br> 
     Add H1 to homepage. ✔️ <br>
     Add H3 to homepage. ✔️ <br>
