@@ -37,7 +37,7 @@
     Images clickable and redirect to info on that event. ✔️ <br> 
     Description for campaign items set to right side. ✔️ <br>
     Main title centred at top of page. ✔️<br>
-    Campaign session number to right side of campaign picture.✔️  <br>
+    Campaign session number to right side of campaign picture. ✔️  <br>
     Make page responsive - make dots smaller and images keep 50% border radius and stay a circle shape on re-size up to 600 px. ✔️  <br>
     Media breaks to re-size dots. ✔️ <br> 
     Media breaks to keep images in circles. ✔️<br> </li>
