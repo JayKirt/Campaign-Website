@@ -98,8 +98,7 @@
   NPC quote in grey and slight opaque below image and stats. ✔️ <br> 
     NPC BIO at bottom of page below quote. ✔️ <br> 
     Page responsive down to 600 px. ✔️
-    
-  <br> </li> 
+   <br> </li> 
 
   <li> <ins> Get good responsivity for width of 280px </ins> <br>
   Main area's of issue: <br>
