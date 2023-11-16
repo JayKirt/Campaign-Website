@@ -87,7 +87,7 @@
   Image below header in centre.✔️ <br>
   Key events pushed to left below map. ✔️<br> 
   Main paragraph about this part of the campaign.✔️ <br> 
-  Fine tune.
+  Fine tune. <br> 
   Make responsive.
   </li> <br> 
 
