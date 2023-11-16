@@ -91,7 +91,7 @@
   Make responsive.
   </li> <br> 
 
-  <li> <ins>NPC Profile page.</ins> <br>
+  <li> <ins>NPC Profile page. </ins> <br>
    NPC Image on left. ✔️ <br> 
    NPC Name and title on right, same height as pic. ✔️ <br> 
     NPC stats in a list to the right of the pic below title and name. ✔️ <br> 
