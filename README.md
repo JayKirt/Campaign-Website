@@ -67,7 +67,7 @@
 <li> <ins>Player Profile page</ins> <br>
   Image of player on left. ✔️ <br> 
       Name, Title and Statistics on right. ✔️ <br> 
-      Quote opaque and centred below image and statistics. ✔️<br> 
+      Quote opaque and centred below image and statistics. ✔️ <br> 
       Biography below quote.✔️ <br> 
       Responsive  to 600 px. ✔️<br> 
       Add links to character attributes. <br>  
