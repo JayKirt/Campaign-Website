@@ -106,8 +106,8 @@
     Nav Bar (not displaying all links) <br>
     Home Page (whole page Does not fit to screen okay at 375px width not at 280px) <br>
     Character page (text overlap at 412 px width)  <br>
-    NPC page (text overlap at 412 px width. <br>
-    Campaign page (text too long images not fitting well in box at 280px width). <br>
+    NPC page (text overlap at 412 px width <br>
+    Campaign page (text too long images not fitting well in box at 280px width) <br>
     Map page (text too long images not fitting well in box at 280px width, h1 needs making smaller and centering). <br>
     HAVE NOT CHECKED SECONDARY PAGES (PLAYER PROFILES, NPC PROFILES ETC).
     
