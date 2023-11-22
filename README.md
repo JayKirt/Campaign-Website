@@ -101,9 +101,9 @@
     Page responsive down to 600 px. ✔️
    <br> </li> 
 
-  <li> <ins> Get good responsivity for width of 280px. </ins> <br>
+  <li> <ins> Get good responsivity for width of 280px </ins> <br>
     Main area's of issue: <br>
-    Nav Bar (not displaying all links). <br>
+    Nav Bar (not displaying all links) <br>
     Home Page (whole page Does not fit to screen okay at 375px width not at 280px). <br>
     Character page (text overlap at 412 px width). <br>
     NPC page (text overlap at 412 px width. <br>
