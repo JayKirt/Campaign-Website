@@ -25,7 +25,7 @@
  
   <li> About us page. ✔️</li> <br>
  
-  <li><ins> Character page: </ins> <br>
+  <li> <ins> Character page: </ins> <br>
     Images displaying in grid pushed to the left. ✔️<br> 
     Descriptions on right hand side of image. ✔️ <br> 
     Image is clickable and redirects to a page about that character. <br> ✔️
