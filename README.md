@@ -52,7 +52,7 @@
     Media breaks to re-size text. ✔️ <br> 
    </li> <br>
   
-  <li> <ins>NPC page:</ins> <br> 
+  <li> <ins> NPC page: </ins> <br> 
     Npc images displaying on left side. ✔️ <br> 
     Header for Npc name. ✔️ <br> 
     List item for some basic info - race, class, age etc. ✔️ <br>
