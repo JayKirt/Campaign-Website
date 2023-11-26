@@ -6,7 +6,7 @@
   <li> Nav bar. ✔️ </li>
   <li> All link pages. ✔️ </li>
   <li> Image on home page. ✔️</li>
-  Try using DVH 
+ <li> Try using DVH  </li>
 </ul>
 
 <ul>
