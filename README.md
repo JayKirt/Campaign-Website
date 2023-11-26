@@ -65,7 +65,7 @@
   
  <li> ***** SECONDARY PAGES ***** </li> <br> 
   
-<li> <ins> Player Profile page</ins> <br>
+<li> <ins> Player Profile page </ins> <br>
   Image of player on left. ✔️ <br> 
       Name, Title and Statistics on right. ✔️ <br> 
       Quote opaque and centred below image and statistics. ✔️ <br> 
