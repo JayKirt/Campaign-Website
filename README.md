@@ -110,8 +110,5 @@
     Campaign page. (text too long images not fitting well in box at 280px width) <br>
     Map page. (text too long images not fitting well in box at 280px width, h1 needs making smaller and centering) <br>
     HAVE NOT CHECKED SECONDARY PAGES. (PLAYER PROFILES, NPC PROFILES ETC)
-    
-   
-    
-  </li>
+    </li>
 </ul>
