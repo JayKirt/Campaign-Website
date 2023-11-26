@@ -75,7 +75,7 @@
       Add links for character equipped gear. 
 </li> <br> 
       
-  <li> <ins>Detailed Map page. </ins> <br> 
+  <li> <ins> Detailed Map page. </ins> <br> 
    Header top of screen and centre above map. ✔️ <br>
   Map in centre of screen. ✔️ <br>
   Full map image shown, no distortion. ✔️ <br> 
