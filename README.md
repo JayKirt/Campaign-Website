@@ -43,7 +43,7 @@
     Media breaks to re-size dots. ✔️ <br> 
     Media breaks to keep images in circles. ✔️<br> </li>
   
-  <li><ins> Maps page: </ins> <br> 
+  <li> <ins> Maps page: </ins> <br> 
     Map images displaying in a list pushed to the left. ✔️ <br> 
     Clickable images that redirect to information on said map. ✔️ <br> 
     Header for each map with name of location. ✔️ <br>
