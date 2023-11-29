@@ -15,7 +15,7 @@
     Add H1 to homepage. ✔️ <br>
     Add H3 to homepage. ✔️ <br>
     Align items in column. ✔️ <br>
-    Add a short about summing up the world. <br>
+    Add a short about summing up the world.<br>
     Decorate the page. <br> 
     Sort background colours. <br>
     Responsive too 600 px. ✔️ 
