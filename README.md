@@ -21,7 +21,7 @@
     Responsive too 600 px. ✔️ 
   </li> <br>
   
-  <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. ✔️ </li><br>
+  <li> Link pages to secondary pages (from maps to specific maps or from a character list to a single character. ✔️</li><br>
  
   <li> About us page. ✔️</li> <br>
  
