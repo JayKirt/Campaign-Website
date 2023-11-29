@@ -55,7 +55,7 @@
   <li> <ins> NPC page: </ins> <br> 
     Npc images displaying on left side. ✔️ <br> 
     Header for Npc name. ✔️ <br> 
-    List item for some basic info - race, class, age etc. ✔️ <br>
+    List item for some basic info - race, class, age etc. ✔️<br>
     clickable images and texts that will redirect to a page about that Npc. ✔️ <br>
     Make page responsive up to 600 px. ✔️ </li> <br>
     
