@@ -17,7 +17,7 @@
     Align items in column. ✔️ <br>
     Add a short about summing up the world.<br>
     Decorate the page. <br> 
-    Sort background colours. <br>
+    Sort background colours.  <br>
     Responsive too 600 px. ✔️ 
   </li> <br>
   
