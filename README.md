@@ -29,7 +29,7 @@
     Images displaying in grid pushed to the left. ✔️ <br> 
     Descriptions on right hand side of image. ✔️ <br> 
     Image is clickable and redirects to a page about that character. ✔️  <br> 
-    Whole container is clickable. ✔️ <br> 
+    Whole container is clickable. ✔️  <br> 
     Make Responsive to 600 px. ✔️</li> <br>
   
   <li> <ins>Campaign page: </ins> <br> 
