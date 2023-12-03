@@ -83,7 +83,7 @@
   Paragraph about map area below details.✔️ </li> 
   
 
-  <li> <ins> Detailed Campaign page. </ins> 
+  <li> <ins> Detailed Campaign page.  </ins> 
   Header at top in centre. ✔️ <br>
   Image below header in centre.✔️ <br>
   Key events pushed to left below map. ✔️<br> 
